@@ -1,4 +1,4 @@
-FROM lab4/eap-openshift-rhc-license
+FROM eap-openshift-rhc-license
 
 EXPOSE 8080 8888
 
